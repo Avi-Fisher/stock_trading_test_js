@@ -12,6 +12,3 @@ export function input_int(print = ""){
     const input = readline.questionInt(print)
     return input
 }
-
-
-
