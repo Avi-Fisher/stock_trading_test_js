@@ -1,5 +1,5 @@
-import { filterStocksByPrice, OperateOnStock, searchStock } from "./server.js";
-import { input, input_int } from "./uttils.js"
+import { filterStocksByPrice, OperateOnStock, searchStock } from "../../server.js";
+import { input, input_int } from "../server/uttils.js"
 
 function printCliMenu() {
     console.log(`    === Stock Trading App ===

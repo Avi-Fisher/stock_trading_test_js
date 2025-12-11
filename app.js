@@ -1,3 +1,3 @@
-import fullMenu from "./menu.js";
+import fullMenu from "./menu/menu.js";
 
 fullMenu()
