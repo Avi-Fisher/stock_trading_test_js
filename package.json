@@ -1,7 +1,7 @@
 {
   "name": "stock_trading_test_js",
   "version": "1.0.0",
-  "description": "",
+  "description": "name :avi fisehr\r כיתה :חרמון \r ת.ז 325082733",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +12,13 @@
   "type": "module",
   "dependencies": {
     "readline-sync": "^1.4.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Avi-Fisher/stock_trading_test_js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Avi-Fisher/stock_trading_test_js/issues"
+  },
+  "homepage": "https://github.com/Avi-Fisher/stock_trading_test_js#readme"
 }

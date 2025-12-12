@@ -104,7 +104,7 @@ function updateBuyPrice(index, category) {
 
         if (s.category === category && s.name !== db.stocks[index].name) {
             s.previousPrices.push(s.currentPrice)
-            s.currentPrice *= 1.1
+            s.currentPrice *= 1.01
             updateTime()
         }
     }
